@@ -1,0 +1,18 @@
+Peak registration hours are: 
+3 people was registered from 16:00 to 16:59
+3 people was registered from 13:00 to 13:59
+2 people was registered from 21:00 to 21:59
+2 people was registered from 11:00 to 11:59
+2 people was registered from 19:00 to 19:59
+2 people was registered from 20:00 to 20:59
+1 people was registered from 15:00 to 15:59
+1 people was registered from 10:00 to 10:59
+1 people was registered from 1:00 to 1:59
+1 people was registered from 17:00 to 17:59
+1 people was registered from 18:00 to 18:59
+Peak registration days are: 
+7 number of people was registered on Wednesday
+5 number of people was registered on Thursday
+4 number of people was registered on Sunday
+2 number of people was registered on Monday
+1 number of people was registered on Tuesday
